@@ -1,0 +1,22 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+birdenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model files
+*.h5
+
+# Uploaded and temp folders
+uploads/
+temp/
+
+# System files
+.DS_Store
+Thumbs.db
